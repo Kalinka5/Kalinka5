@@ -20,8 +20,8 @@
 ⚡ Fun fact **I have Jeff Bezos's phone number**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalinka5&show_icons=true&locale=en" alt="kalinka5" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalinka5&" alt="kalinka5" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kalinka5&show_icons=true&locale=en" alt="kalinka5" />
 </p>
 
 <h1 align="center">💻 TECH STACK:</h1>
