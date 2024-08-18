@@ -1,23 +1,23 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+<p><img src="https://github.com/user-attachments/assets/8b5f088d-f26a-4ca9-87a6-c98a2bbe8253" alt="kalinka5" width="100%"/></p>
 <h1 align="center">Hi 👋, I'm Daniil Kalinevych</h1>
 <h3 align="center">A passionate Python developer from Ukraine</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="460" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalinka5&label=Profile%20views&color=0e75b6&style=flat" alt="kalinka5" /> </p>
 
-- 🔭 I’m currently working on [Kalina_foundation](https://www.kalina-fond.com)
+🔭 I’m currently working on [Kalina_foundation](https://www.kalina-fond.com)
 
-- 🌱 I’m currently learning **React.js. I'm taking a course Meta Back-End Developer Professional Certificate on Coursera**
+🌱 I’m currently learning **React.js. I'm taking a course Meta Back-End Developer Professional Certificate on Coursera**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/Kalinka5?tab=repositories)
+👨‍💻 All of my projects are available at [Portfolio](https://github.com/Kalinka5?tab=repositories)
 
-- 💬 Ask me about **Python, AWS, Google Cloud, Aiogram, Django, REST, React, Gmail API, SpreadSheets API**
+💬 Ask me about **Python, AWS, Google Cloud, Aiogram, Django, REST, React, Gmail API, SpreadSheets API**
 
-- 📫 How to reach me **kalina003d@gmail.com**
+📫 How to reach me **kalina003d@gmail.com**
 
-- 📄 Know about my experiences [Resume](Link_to_resume)
+📄 Know about my experiences [Resume](Link_to_resume)
 
-- ⚡ Fun fact **I have Jeff Bezos's phone number**
+⚡ Fun fact **I have Jeff Bezos's phone number**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kalinka5&show_icons=true&locale=en" alt="kalinka5" />
